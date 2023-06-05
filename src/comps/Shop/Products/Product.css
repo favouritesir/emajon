@@ -1,0 +1,26 @@
+.Product{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 5px 15px 0;
+    border-bottom: 1px solid lightgray;
+
+}
+.Product .Pdes h4{
+    color: blue;
+}
+
+.Product .Pdes .Cart{
+    background-color: goldenrod;
+    width: 30vw;
+    border: 1px solid rgb(179, 152, 0);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+.Product .Pimg{
+    /* width: 30px; */
+}
+/* .Product .Pimg img{width: 100%;} */
